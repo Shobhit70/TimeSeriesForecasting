@@ -1,5 +1,5 @@
 <h1>Time Series Forecasting</h1>
-It contains forecasting using
-<ul>Simple Time Series Method
-<ul>Exponential smoothing methods
-<ul>Auto Regressive methods
+It contains forecasting using</br>
+1: Simple Time Series Method</br>
+2: Exponential smoothing methods</br>
+3: Auto Regressive methods</br>
